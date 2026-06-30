@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fluentui/react": "^8.125.6",
+    "@fluentui/react-components": "^9.74.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3"
+  }
+}
